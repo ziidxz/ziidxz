@@ -1,13 +1,17 @@
 # ziidx
 
-I build software on a phone — Termux on Android is the whole studio: editor,
-git, node, clang and no external screen.
+i build everything on my phone. termux is the setup: editor, git, node, clang.
+no pc, no second screen.
 
-Top of the register right now:
+the main project right now is Mikanime, an anime streaming site with a
+zero-dependency node server. it parses public catalog pages, gets rankings
+from the anilist graphql api with mal ids, and plays hls with resume and
+continue watching. built, run and tested on-device. screens and build notes:
+https://ziidxz.github.io
 
-- 🌐 [ziidxz.github.io](https://ziidxz.github.io) — the portfolio, Mikanime first
-- 📺 **Mikanime** — a live anime streamer: zero-dependency Node server, AniList
-  catalog mirror, hand-built HLS player. Screens and build story on the site.
-- 🔍 termux-browser — a browser engine without Chromium, own CSS/layout/rasteriser
+also on this account: sunk, a ledger for subscriptions.
+staying local for now: a browser engine without chromium (chromium has no
+termux build).
 
-Questions or work: open an issue on the site repo, or [sponsor one-time](https://github.com/sponsors/ziidxz) (any amount).
+if any of it is useful: https://github.com/sponsors/ziidxz
+(one-time works, any amount)
