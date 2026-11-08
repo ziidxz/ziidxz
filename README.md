@@ -7,8 +7,7 @@ continue watching. built, run and tested on device. screens and build notes:
 https://ziidxz.github.io
 
 also on this account: sunk, a ledger for subscriptions.
-staying local for now: a browser engine without chromium (chromium has no
-termux build).
+staying local for now: a browser engine without chromium.
 
 if any of it is useful: https://github.com/sponsors/ziidxz
 (one-time works, any amount)
